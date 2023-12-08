@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Diagnostics;
 class Program // Advend of Code 2023, Day 8
-{             // Guenther Meusburger
+{             // Guenther Meusburger 2023
     static void Main()
     {
         Stopwatch stopwatch = new Stopwatch(); stopwatch.Start();
